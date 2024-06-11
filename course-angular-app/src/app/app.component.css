@@ -2,3 +2,9 @@ h1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #1a0dab;
 }
+
+div {
+  max-width: 500px;
+  font-size: 32px;
+  margin: 0 auto;
+}
